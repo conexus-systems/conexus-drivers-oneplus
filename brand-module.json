@@ -1,0 +1,162 @@
+{
+  "brand": "oneplus",
+  "status": "unverified",
+  "devices": [
+    {
+      "codename": "aston",
+      "model": "12R"
+    },
+    {
+      "codename": "astonc",
+      "model": "Ace 3"
+    },
+    {
+      "codename": "audi",
+      "model": "Ace 3V"
+    },
+    {
+      "codename": "avalon",
+      "model": "Nord 4"
+    },
+    {
+      "codename": "benz",
+      "model": "Nord CE4"
+    },
+    {
+      "codename": "caihong",
+      "model": "Pad Pro"
+    },
+    {
+      "codename": "caihong",
+      "model": "Pad 2"
+    },
+    {
+      "codename": "corvette",
+      "model": "Ace 3 Pro"
+    },
+    {
+      "codename": "dodge",
+      "model": "13"
+    },
+    {
+      "codename": "dre",
+      "model": "Nord N200"
+    },
+    {
+      "codename": "erhai",
+      "model": "Pad 2 Pro"
+    },
+    {
+      "codename": "erhai",
+      "model": "Pad 3"
+    },
+    {
+      "codename": "giulia",
+      "model": "13R"
+    },
+    {
+      "codename": "giuliac",
+      "model": "Ace 5"
+    },
+    {
+      "codename": "guacamole",
+      "model": "7 Pro"
+    },
+    {
+      "codename": "guacamole",
+      "model": "7 Pro (T-Mobile)"
+    },
+    {
+      "codename": "guacamoleb",
+      "model": "7"
+    },
+    {
+      "codename": "gunnar",
+      "model": "Nord N20"
+    },
+    {
+      "codename": "hotdog",
+      "model": "7T Pro"
+    },
+    {
+      "codename": "hotdogb",
+      "model": "7T"
+    },
+    {
+      "codename": "hotdogb",
+      "model": "7T (T-Mobile)"
+    },
+    {
+      "codename": "hummer",
+      "model": "Ace 5 Pro"
+    },
+    {
+      "codename": "instantnoodle",
+      "model": "8"
+    },
+    {
+      "codename": "instantnoodle",
+      "model": "8 (T-Mobile)"
+    },
+    {
+      "codename": "instantnoodlep",
+      "model": "8 Pro"
+    },
+    {
+      "codename": "kebab",
+      "model": "8T"
+    },
+    {
+      "codename": "kebab",
+      "model": "8T (T-Mobile)"
+    },
+    {
+      "codename": "larry",
+      "model": "Nord CE 3 Lite 5G"
+    },
+    {
+      "codename": "larry",
+      "model": "Nord N30 5G"
+    },
+    {
+      "codename": "lemonade",
+      "model": "9"
+    },
+    {
+      "codename": "lemonade",
+      "model": "9 (T-Mobile)"
+    },
+    {
+      "codename": "lemonadep",
+      "model": "9 Pro"
+    },
+    {
+      "codename": "lemonadep",
+      "model": "9 Pro (T-Mobile)"
+    },
+    {
+      "codename": "lemonades",
+      "model": "9R"
+    },
+    {
+      "codename": "lexus",
+      "model": "Nord 5"
+    },
+    {
+      "codename": "martini",
+      "model": "9RT"
+    },
+    {
+      "codename": "oscaro",
+      "model": "Nord CE 2 Lite 5G"
+    },
+    {
+      "codename": "salami",
+      "model": "11 5G"
+    },
+    {
+      "codename": "waffle",
+      "model": "12"
+    }
+  ]
+}

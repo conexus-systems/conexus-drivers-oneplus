@@ -1,0 +1,1032 @@
+[
+  {
+    "codename": "aston",
+    "name": "12R",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_oneplus_aston",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/aston.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_aston",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "astonc",
+    "name": "Ace 3",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_oneplus_astonc",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/astonc.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_astonc",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "audi",
+    "name": "Ace 3V",
+    "soc": "Qualcomm SM7675-AB Snapdragon 7+ Gen 3",
+    "lineage_device_tree": "android_device_oneplus_audi",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/audi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_audi",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "avalon",
+    "name": "Nord 4",
+    "soc": "Qualcomm SM7675-AB Snapdragon 7+ Gen 3",
+    "lineage_device_tree": "android_device_oneplus_avalon",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/avalon.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_avalon",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "benz",
+    "name": "Nord CE4",
+    "soc": "Qualcomm SM7550-AB Snapdragon 7 Gen 3",
+    "lineage_device_tree": "android_device_oneplus_benz",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/benz.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_benz",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "caihong",
+    "name": "Pad Pro",
+    "soc": "Qualcomm SM8650 Snapdragon 8 Gen3",
+    "lineage_device_tree": "android_device_oneplus_caihong",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/caihong_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_caihong",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "caihong",
+    "name": "Pad 2",
+    "soc": "Qualcomm SM8650 Snapdragon 8 Gen3",
+    "lineage_device_tree": "android_device_oneplus_caihong",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/caihong_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_caihong",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "corvette",
+    "name": "Ace 3 Pro",
+    "soc": "Qualcomm SM8650 Snapdragon 8 Gen3",
+    "lineage_device_tree": "android_device_oneplus_corvette",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/corvette.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_corvette",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "dodge",
+    "name": "13",
+    "soc": "Qualcomm SM8750 Snapdragon 8 Elite",
+    "lineage_device_tree": "android_device_oneplus_dodge",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8750",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/dodge.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8750 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_dodge",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "dre",
+    "name": "Nord N200",
+    "soc": "Qualcomm SM4350 Snapdragon 480",
+    "lineage_device_tree": "android_device_oneplus_dre",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm4350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/dre.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm4350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_dre",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "erhai",
+    "name": "Pad 2 Pro",
+    "soc": "Qualcomm SM8750 Snapdragon 8 Elite",
+    "lineage_device_tree": "android_device_oneplus_erhai",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8750",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/erhai_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8750 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_erhai",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "erhai",
+    "name": "Pad 3",
+    "soc": "Qualcomm SM8750 Snapdragon 8 Elite",
+    "lineage_device_tree": "android_device_oneplus_erhai",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8750",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/erhai_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8750 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_erhai",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "giulia",
+    "name": "13R",
+    "soc": "Qualcomm SM8650 Snapdragon 8 Gen3",
+    "lineage_device_tree": "android_device_oneplus_giulia",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/giulia.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_giulia",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "giuliac",
+    "name": "Ace 5",
+    "soc": "Qualcomm SM8650 Snapdragon 8 Gen3",
+    "lineage_device_tree": "android_device_oneplus_giuliac",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/giuliac.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_giuliac",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guacamole",
+    "name": "7 Pro",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "lineage_device_tree": "android_device_oneplus_guacamole",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8150",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "16.0",
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guacamole_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_guacamole",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guacamole",
+    "name": "7 Pro (T-Mobile)",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "lineage_device_tree": "android_device_oneplus_guacamole",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8150",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_oneplus_tmo",
+    "lineage_versions": [
+      "16.0",
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guacamole_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_oneplus_tmo', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_guacamole",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guacamoleb",
+    "name": "7",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "lineage_device_tree": "android_device_oneplus_guacamoleb",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8150",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guacamoleb.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_guacamoleb",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gunnar",
+    "name": "Nord N20",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_oneplus_gunnar",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gunnar.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_gunnar",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "hotdog",
+    "name": "7T Pro",
+    "soc": "Qualcomm SM8150-AC Snapdragon 855+",
+    "lineage_device_tree": "android_device_oneplus_hotdog",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8150",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/hotdog.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_hotdog",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "hotdogb",
+    "name": "7T",
+    "soc": "Qualcomm SM8150-AC Snapdragon 855+",
+    "lineage_device_tree": "android_device_oneplus_hotdogb",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8150",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/hotdogb_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_hotdogb",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "hotdogb",
+    "name": "7T (T-Mobile)",
+    "soc": "Qualcomm SM8150-AC Snapdragon 855+",
+    "lineage_device_tree": "android_device_oneplus_hotdogb",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8150",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_oneplus_tmo",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/hotdogb_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_oneplus_tmo', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_hotdogb",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "hummer",
+    "name": "Ace 5 Pro",
+    "soc": "Qualcomm SM8750 Snapdragon 8 Elite",
+    "lineage_device_tree": "android_device_oneplus_hummer",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8750",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/hummer.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8750 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_hummer",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "instantnoodle",
+    "name": "8",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_oneplus_instantnoodle",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/instantnoodle_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_instantnoodle",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "instantnoodle",
+    "name": "8 (T-Mobile)",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_oneplus_instantnoodle",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_oneplus_tmo",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/instantnoodle_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_oneplus_tmo', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_instantnoodle",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "instantnoodlep",
+    "name": "8 Pro",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_oneplus_instantnoodlep",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/instantnoodlep.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_instantnoodlep",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "kebab",
+    "name": "8T",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_oneplus_kebab",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/kebab_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_kebab",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "kebab",
+    "name": "8T (T-Mobile)",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_oneplus_kebab",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_oneplus_tmo",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/kebab_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_oneplus_tmo', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_kebab",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "larry",
+    "name": "Nord CE 3 Lite 5G",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_oneplus_larry",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/larry_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_larry",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "larry",
+    "name": "Nord N30 5G",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_oneplus_larry",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/larry_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_larry",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lemonade",
+    "name": "9",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_oneplus_lemonade",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lemonade_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_lemonade",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lemonade",
+    "name": "9 (T-Mobile)",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_oneplus_lemonade",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_oneplus_tmo",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lemonade_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_oneplus_tmo', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_lemonade",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lemonadep",
+    "name": "9 Pro",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_oneplus_lemonadep",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lemonadep_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_lemonadep",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lemonadep",
+    "name": "9 Pro (T-Mobile)",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_oneplus_lemonadep",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_oneplus_tmo",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lemonadep_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_oneplus_tmo', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_lemonadep",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lemonades",
+    "name": "9R",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_oneplus_lemonades",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lemonades.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_lemonades",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lexus",
+    "name": "Nord 5",
+    "soc": "Qualcomm SM8635 Snapdragon 8s Gen3",
+    "lineage_device_tree": "android_device_oneplus_lexus",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lexus.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_lexus",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "martini",
+    "name": "9RT",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_oneplus_martini",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/martini.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_martini",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "oscaro",
+    "name": "Nord CE 2 Lite 5G",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_oneplus_oscaro",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/oscaro.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_oscaro",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "salami",
+    "name": "11 5G",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_oneplus_salami",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/salami.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_salami",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "waffle",
+    "name": "12",
+    "soc": "Qualcomm SM8650 Snapdragon 8 Gen3",
+    "lineage_device_tree": "android_device_oneplus_waffle",
+    "lineage_kernel_repo": "android_kernel_oneplus_sm8650",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/waffle.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_oneplus_sm8650 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_oneplus_waffle",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  }
+]
